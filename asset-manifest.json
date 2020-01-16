@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/conttacts-reactjs/static/css/main.36497136.chunk.css",
-    "main.js": "/conttacts-reactjs/static/js/main.f4c0d341.chunk.js",
-    "main.js.map": "/conttacts-reactjs/static/js/main.f4c0d341.chunk.js.map",
-    "runtime-main.js": "/conttacts-reactjs/static/js/runtime-main.620e492c.js",
-    "runtime-main.js.map": "/conttacts-reactjs/static/js/runtime-main.620e492c.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/conttacts-reactjs/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.f6c74172.chunk.js": "/conttacts-reactjs/static/js/2.f6c74172.chunk.js",
-    "static/js/2.f6c74172.chunk.js.map": "/conttacts-reactjs/static/js/2.f6c74172.chunk.js.map",
-    "index.html": "/conttacts-reactjs/index.html",
-    "precache-manifest.d8985d425fba862286b7995c714db449.js": "/conttacts-reactjs/precache-manifest.d8985d425fba862286b7995c714db449.js",
-    "service-worker.js": "/conttacts-reactjs/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/conttacts-reactjs/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.36497136.chunk.css.map": "/conttacts-reactjs/static/css/main.36497136.chunk.css.map",
-    "static/js/2.f6c74172.chunk.js.LICENSE": "/conttacts-reactjs/static/js/2.f6c74172.chunk.js.LICENSE"
+    "main.css": "/contactman-reactjs/static/css/main.36497136.chunk.css",
+    "main.js": "/contactman-reactjs/static/js/main.37eaf7a6.chunk.js",
+    "main.js.map": "/contactman-reactjs/static/js/main.37eaf7a6.chunk.js.map",
+    "runtime-main.js": "/contactman-reactjs/static/js/runtime-main.9c470809.js",
+    "runtime-main.js.map": "/contactman-reactjs/static/js/runtime-main.9c470809.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/contactman-reactjs/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.f6c74172.chunk.js": "/contactman-reactjs/static/js/2.f6c74172.chunk.js",
+    "static/js/2.f6c74172.chunk.js.map": "/contactman-reactjs/static/js/2.f6c74172.chunk.js.map",
+    "index.html": "/contactman-reactjs/index.html",
+    "precache-manifest.dd9f4923a98cc37ef31f19dded55b6ba.js": "/contactman-reactjs/precache-manifest.dd9f4923a98cc37ef31f19dded55b6ba.js",
+    "service-worker.js": "/contactman-reactjs/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/contactman-reactjs/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/contactman-reactjs/static/css/main.36497136.chunk.css.map",
+    "static/js/2.f6c74172.chunk.js.LICENSE": "/contactman-reactjs/static/js/2.f6c74172.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.620e492c.js",
+    "static/js/runtime-main.9c470809.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.f6c74172.chunk.js",
     "static/css/main.36497136.chunk.css",
-    "static/js/main.f4c0d341.chunk.js"
+    "static/js/main.37eaf7a6.chunk.js"
   ]
 }
